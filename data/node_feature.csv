@@ -1,0 +1,48 @@
+node,City,Capability,Memory
+0,Beijing,8.6,152
+1,Beijing,8,320
+2,Beijing,8.6,320
+3,Beijing,7,384
+4,Beijing,8.6,152
+5,Neimeng ,8,320
+6,Neimeng ,8.6,152
+7,Neimeng ,8.6,152
+8,Neimeng ,8.6,152
+9,Neimeng,7,384
+10,Nanjing,6.1,128
+11,Nanjing,8.6,76
+12,Nanjing,8.6,96
+13,Nanjing,8.6,96
+14,Nanjing,8.6,96
+15,Quanzhou,6.1,64
+16,Quanzhou,6.1,64
+17,Quanzhou,6.1,64
+18,Quanzhou,7.5,144
+19,Quanzhou,7.5,144
+20,California,8,320
+21,California,8.6,96
+22,California,7,384
+23,California,6.1,128
+24,California,8.6,96
+25,Tokyo,8.6,96
+26,Tokyo,8.6,96
+27,Tokyo,8.6,96
+28,Tokyo,8.6,96
+29,Tokyo,8.6,96
+30,Berlin,7,384
+31,Berlin,7,384
+32,Berlin,7,384
+33,London,6.1,64
+34,New Delhi,8.6,96
+35,New Delhi,8.6,152
+36,New Delhi,6.1,128
+37,Paris,7,384
+38,Paris,7,384
+39,Paris,8.6,152
+40,Paris,6.1,128
+41,Rome,8.6,152
+42,Rome,7,384
+43,Rome,8,320
+44,Rome,8,640
+45,Rome,7,384
+46,Brasilia,8,640
